@@ -8,7 +8,7 @@ Proyek ini bertujuan untuk membangun model **Convolutional Neural Network (CNN)*
 ## ⚙️ Langkah-langkah Utama
 
 - **Install & Import Library**
-  - TensorFlow 2.x, Keras (Sequential, Conv2D, MaxPooling2D, Flatten, Dense, Dropout)
+  - TensorFlow, Keras (Sequential, Conv2D, MaxPooling2D, Flatten, Dense, Dropout)
   - ImageDataGenerator untuk augmentasi data
   - Numpy, Matplotlib untuk analisis & visualisasi
 
@@ -53,18 +53,3 @@ Proyek ini bertujuan untuk membangun model **Convolutional Neural Network (CNN)*
 2. Jalankan notebook di Google Colab atau Jupyter Notebook.
 3. Pastikan TensorFlow 2.x sudah terinstall.
 4. Notebook akan otomatis mengunduh dataset dan melakukan training.
-
----
-
-## 📂 Struktur Folder
-cats_and_dogs/ 
-├── train/ │ 
-├── cats/ 
-│ └── dogs/ 
-├── validation/ 
-│ ├── cats/ 
-│ └── dogs/ 
-└── test/ 
-├── cats/ 
-└── dogs/
-
