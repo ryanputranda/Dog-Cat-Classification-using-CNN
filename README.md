@@ -51,5 +51,5 @@ Proyek ini bertujuan untuk membangun model **Convolutional Neural Network (CNN)*
 ## 🚀 Cara Menjalankan
 1. Clone repository ini.
 2. Jalankan notebook di Google Colab atau Jupyter Notebook.
-3. Pastikan TensorFlow 2.x sudah terinstall.
+3. Pastikan TensorFlow sudah terinstall.
 4. Notebook akan otomatis mengunduh dataset dan melakukan training.
